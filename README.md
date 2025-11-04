@@ -1,7 +1,3 @@
-Aquí tienes el `README.md` final y unificado, que utiliza los nombres de archivo exactos de tu proyecto (`openmp-datoslento.cpp`, `openmp.cpp`, etc.) para que las instrucciones de compilación y ejecución sean correctas.
-
------
-
 # Práctico Final: Paralelización de Cross-Fading de Imágenes
 
 Este proyecto es la resolución del Práctico Final Integrador para la cátedra de **Computación Avanzada**. El objetivo es implementar y analizar el rendimiento de un algoritmo de *cross-fading* de imágenes, comparando una implementación secuencial con dos estrategias de paralelización (Paralelismo de Datos y División de Tareas) utilizando OpenMP y MPI.
